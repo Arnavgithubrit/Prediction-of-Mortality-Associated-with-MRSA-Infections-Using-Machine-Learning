@@ -1,4 +1,4 @@
-**Prediction of mortality associated with MRSA Infections using Machine Learning**
+🧬**Prediction of mortality associated with MRSA Infections using Machine Learning**
 
 **🎯Overview**
 
